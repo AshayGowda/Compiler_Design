@@ -1,0 +1,27 @@
+___________________________________________________________________
+|Line      |Name      |Scope     |value     |id_type   |datatype  |
+-------------------------------------------------------------------
+|2         |p         |0         |p+1       |IDENT     |int       |
+|5         |k         |-1        |10        |IDENT     |int       |
+|6         |a         |-1        |p         |IDENT     |int       |
+|7         |b         |-1        |40        |IDENT     |int       |
+|8         |c         |-1        |          |IDENT     |int       |
+|8         |e         |-1        |          |IDENT     |int       |
+|8         |g         |-1        |          |IDENT     |int       |
+|8         |d         |-1        |t3*e      |IDENT     |int       |
+|9         |t0        |-1        |b*c       |TEMP      |TEMP      |
+|9         |t1        |-1        |t0+g      |TEMP      |TEMP      |
+|10        |t2        |-1        |b*c       |TEMP      |TEMP      |
+|10        |t3*e      |-1        |t3*e      |TEMP      |TEMP      |
+|12        |qw        |-1        |          |IDENT     |float     |
+|13        |c2        |-1        |          |ARRAY     |char      |
+|14        |h         |-1        |y         |IDENT     |int       |
+|22        |i         |-1        |i+1       |IDENT     |int       |
+|25        |t         |-1        |b         |IDENT     |int       |
+|28        |l         |-1        |          |IDENT     |int       |
+|30        |t4        |-1        |b*l       |TEMP      |TEMP      |
+|30        |t5        |-1        |a+t4      |TEMP      |TEMP      |
+|30        |uy        |-1        |t5        |IDENT     |int       |
+|32        |y         |-1        |          |IDENT     |int       |
+|34        |main      |0         |          |FUNCT     |int       |
+-------------------------------------------------------------------

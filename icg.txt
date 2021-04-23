@@ -1,0 +1,36 @@
+p =  0
+k =  10
+a =  10
+b =  40
+t0 = b * c
+t1 = t0 + g
+a =  t1
+t2 = b * c
+t3 = t3 * e
+d =  t3*e
+a =  5
+h =  a
+p = p - 1
+p = p + 1
+p = p - 1
+if  p<5  goto L0
+goto L1
+L0 : 
+a =  10
+goto L2
+L1 : 
+a =  20
+L2 : 
+i =  4
+L3 : 
+i = i - 1
+t =  b
+if  i>1  goto L3
+goto L4
+L4 : 
+a =  p
+t4 = b * l
+t5 = a + t4
+uy =  t5
+h =  15
+h =  y

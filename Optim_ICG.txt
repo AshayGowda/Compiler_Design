@@ -1,0 +1,27 @@
+p = 0
+a = 10
+b = 40
+a = t1
+a = 5
+p = -1
+p = 0
+p = -1
+IF p<5 GOTO L0
+GOTO L1
+L0 :
+a = 10
+GOTO L2
+L1 :
+a = 20
+L2 :
+i = 4
+L3 :
+i = 3
+t = 40
+IF i>1 GOTO L3
+GOTO L4
+L4 :
+a = -1
+uy = t5
+h = 15
+h = y
